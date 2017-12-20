@@ -1,0 +1,22 @@
+{    
+    "sceneData":[{
+        "Name":"睡眠模式"
+    },{
+        "Name":"阅读模式"
+    },{
+        "Name":"休闲模式"
+    }],
+    "deviceListData":[{
+        "Name":"空调",
+        "TypeId":100
+    },{
+        "Name":"灯光",
+        "TypeId":200
+    },{
+        "Name":"窗帘",
+        "TypeId":400
+    },{
+        "Name":"音响",
+        "TypeId":500
+    }]
+}
